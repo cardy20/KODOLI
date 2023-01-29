@@ -12,6 +12,8 @@ You can download benchmark [**KODOLI**]() in this repository.
 #### Source
 ![source](https://user-images.githubusercontent.com/92618068/215315708-b27b1cbc-c525-4d84-a44a-72fb3de4c436.png)
 
+#### Statistics
+![Statistics](https://user-images.githubusercontent.com/92618068/215315769-a47a6c52-8fe5-4250-b3ff-86b879e2e768.png)
 
 #### Statistics
 
