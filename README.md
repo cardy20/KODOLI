@@ -30,6 +30,7 @@ You can download benchmark [**KODOLI**]() in this repository.
 ## Contributors
 
 - [Sanhee Park](https://github.com/kosohae) ([*Korea Telecome Corp.*](https://genielabs.ai))
+- [Jaewon Lee](https://github.com/jsh-fw)
 
 ## License
 
