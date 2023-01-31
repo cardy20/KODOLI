@@ -1,8 +1,11 @@
 # KODOLI
 **"Why do I feel offended?" - Korean Dataset for Offensive Language Identification (EACL2023 Findings)**
 
-**KODOLI** is an offensive language identification dataset with three supvervision labels (offensive language, abusive language, sentiment).
-
+**KODOLI** is a novel KOrean Dataset for Offensive Language Identification.
+KODOLI comprises more fine-grained offensiveness categories (i.e., not offensive, likely offensive, and offensive) 
+A likely offensive language refers to texts with implicit offensiveness or abusive language without offensive intentions. 
+In addition, we propose two auxiliary tasks to help identify offensive languages: abusive language detection and sentiment analysis.
+~
 ## Download
 
 You can download benchmark [**KODOLI**]() in this repository.
