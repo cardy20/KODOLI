@@ -466,7 +466,7 @@ index,sentences,abuse,sentiment,offensiveness
 465,완벽함. 감히 평할 수가 없음.,NON,POS,NOT
 466,솔직히 너네 여사친 따먹고싶지?,ABS,NEG,OFFEN
 467,더듬이당 자체가19당 ㅋㅋ,NON,NEG,OFFEN
-468,좆스디스 븅신년 피규어 바가지보다 똘배티가 낫지,ABS,NEG,LIKELY
+468,좆스디스 븅신년 피규어 바가지보다 똘배티가 낫지,ABS,NEG,OFFEN
 469,비는커녕해만쨍쨍하구만제발비좀내려줘라ㅠㅠ기상청을믿은내가바보지ㅋㅋㅋㅋ,NON,NEG,NOT
 470,저게 뭘로봐서 내정간섭이지? 도리어 어느 나라든지 달라이라마 만나는 걸 못하게 하는게 내정간섭이겠지. 중국놈들은 참 논리 수준이 낮아도 한참 낮아....아 그리고 달라이라마는 티벳의 정신적 지주이자 독립운동가다. 돈만 아는 중국 것들이 이래라 저래라 할 분이 아니란다. 그리고 대만도 너희 나라랑 다른 독립국가야.,NON,NEU,NOT
 471,음  탄핵시위 하지 말고. 집에서 떡이나 쳐라.?,ABS,NEU,OFFEN
@@ -900,7 +900,7 @@ index,sentences,abuse,sentiment,offensiveness
 899,ㅇ_ㅇ....?,NON,NEU,NOT
 900,K-POP 모터스가 인수해야 합니다.작년 매출 4000조가 넘는데.,NON,POS,NOT
 901,"일단 장착전입니다 Nfc코인, 모뎀 안왔네요 사진구성과 차이가 있네요 어라운드뷰출시됀다는데 함께장착예정입니다",NON,POS,NOT
-902,고기나 가져와 이년아 ㅋㅋㅋㅋㅋㅋㅋ,ABS,NEU,LIKELY
+902,고기나 가져와 이년아 ㅋㅋㅋㅋㅋㅋㅋ,ABS,NEU,OFFEN
 903,강아지랑 꼭끌어안아 ,NON,NEG,NOT
 904,기생충 노조 기업을 말아먹는다,ABS,NEG,OFFEN
 905,매트 하고 발색 좋고ㅋ,NON,POS,NOT
@@ -35111,7 +35111,7 @@ index,sentences,abuse,sentiment,offensiveness
 35110,3사 다 똑같은 것만 중계할거면 걍 채널 통합해라 전파낭비하지말고,NON,NEG,LIKELY
 35111,조작돌 아이즈원 활동중,NON,NEU,NOT
 35112,이 정부...대다나다,NON,NEU,NOT
-35113,통피 애미없는년아 작작좀 해라,ABS,NEU,LIKELY
+35113,통피 애미없는년아 작작좀 해라,ABS,NEU,OFFEN
 35114,멀티는 별로지만 싱글하나는 끝내줍니다. 돈갑한다고생각합니다 new game+ pls 하다못해 확장팩이라도.. 엔딩이 일직선이라 허무,NON,POS,NOT
 35115,김진표 급발진도 생각하니까 웃기네 ㅋㅋㅋㅋㅋㅋㅋ,NON,NEU,NOT
 35116,애들아 잘때 이거 틀고 자봐 잠 잘온다 ,ABS,NEG,NOT
@@ -36364,7 +36364,7 @@ index,sentences,abuse,sentiment,offensiveness
 36363,대표팀 모두 대회일정 잘마무리하시고 건강하게 돌아오세요~헬조선이지만 돈 많으면 살만할거예요~,NON,NEG,NOT
 36364,인수조건1번은  노조 해체,NON,NEG,NOT
 36365,가슴존나큼데팔둑살없는여자는 운동을 얼마나열심히했을까 ,ABS,POS,NOT
-36366,급식새끼 특히 현피 쫄아서 나가지도못한새끼가 ,ABS,NEG,LIKELY
+36366,급식새끼 특히 현피 쫄아서 나가지도못한새끼가 ,ABS,NEG,OFFEN
 36367,주인공이 가장 행복한 엔딩은 커밍아웃인듯ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 그리고 5살조카 정체가 뭐여,NON,POS,NOT
 36368,애기야 무섭니☺+,NON,NEU,NOT
 36369,친구와 하면 재밌지만 혼자하면 무섭습니다.,NON,POS,NOT

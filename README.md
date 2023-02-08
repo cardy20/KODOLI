@@ -7,7 +7,7 @@
 
 ## Download
 
-You can download benchmark **KODOLI** in this repository (data).
+You can download benchmark **KODOLI** in this repository.
 
 ## Dataset Description
 
