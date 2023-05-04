@@ -32,6 +32,7 @@ You can download benchmark **KODOLI** in this repository.
 
 ## Citation
 
+```
 @inproceedings{park2023feel,
   title={“Why do I feel offended?”-Korean Dataset for Offensive Language Identification},
   author={Park, San-Hee and Kim, Kang-Min and Lee, O-joun and Kang, Youjin and Lee, Jaewon and Lee, Su-min and Lee, Sangkeun},
@@ -39,6 +40,7 @@ You can download benchmark **KODOLI** in this repository.
   pages={1112--1123},
   year={2023}
 }
+```
 
 ## Contributors
 
