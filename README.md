@@ -31,7 +31,14 @@ You can download benchmark **KODOLI** in this repository.
 - Apr 20, 2023 We release 3.6k examples for `offensive language identification` task.
 
 ## Citation
-Comming Soon 
+
+@inproceedings{park2023feel,
+  title={“Why do I feel offended?”-Korean Dataset for Offensive Language Identification},
+  author={Park, San-Hee and Kim, Kang-Min and Lee, O-joun and Kang, Youjin and Lee, Jaewon and Lee, Su-min and Lee, Sangkeun},
+  booktitle={Findings of the Association for Computational Linguistics: EACL 2023},
+  pages={1112--1123},
+  year={2023}
+}
 
 ## Contributors
 
