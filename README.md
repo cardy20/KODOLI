@@ -2,15 +2,17 @@
 
 **KODOLI** is a novel **KOrean Dataset for Offensive Language Identification**.
 
-_Warning: it contains some offensive expressions._
+_Warning: it contains highly offensive expressions._
 
 - KODOLI comprises more fine-grained offensiveness categories (i.e., not offensive, likely offensive, and offensive) 
 - A likely offensive language refers to ``texts with implicit offensiveness or abusive language without offensive intentions``. 
 - In addition, we propose **two auxiliary tasks to help identify offensive languages: abusive language detection and sentiment analysis**.
+  - You could utilize toxic detection through the auxiliary task. (Be careful the raw expressions)
 
 ## Download
 
 You can download benchmark **KODOLI** in this repository.
+Please, follow the data's license.
 
 ## Dataset Description
 
@@ -24,11 +26,13 @@ You can download benchmark **KODOLI** in this repository.
 
 ### Guideline Details 
 
-[**Guideline**](https://docs.google.com/document/d/1s_evnpEgr_xJV7y3yjwqiUa_p0zSxFQBKV4xB2HDw9E/edit?usp=sharing)
+[**Guideline(ENG.)**](https://docs.google.com/document/d/1s_evnpEgr_xJV7y3yjwqiUa_p0zSxFQBKV4xB2HDw9E/edit?usp=sharing)
+
+[**Guideline(KOR.)**] Comming Soon
 
 ## Updates
 
-- Apr 20, 2023 We release 3.6k examples for `offensive language identification` task.
+- Apr 20, 2023 We release 3.6k examples for `offensive language identification` task
 
 ## Citation
 
